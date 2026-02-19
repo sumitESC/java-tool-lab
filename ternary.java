@@ -1,6 +1,6 @@
 import java.util.*;
 
-class q10 {
+class ternary {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
